@@ -1,8 +1,8 @@
-#Python Basic ⚡️
+# Python Basic ⚡️
 
 #
 
-###**1. Arithmetic Opertators**
+### **1. Arithmetic Opertators**
 
 | Operator | Name                   | Example |
 | -------- | ---------------------- | ------- |
@@ -16,7 +16,7 @@
 
 #
 
-###**2. Assignment Operators**
+### **2. Assignment Operators**
 | Operator | Example | Same as |
 |-|-|-|
 |=| x = 5 | x = 5 |
@@ -27,7 +27,7 @@
 
 #
 
-###**3. 자료형**
+### **3. 자료형**
 
 - **Boolean(불리언)**
   True, False (참, 거짓)
@@ -72,7 +72,7 @@ print(C['name'])
 
 #
 
-###**4. 조건문**
+### **4. 조건문**
 
 - **if** + 조건1
 - **elif** + 조건2 (앞의 조건1이 거짓일 경우 조건2 실행)
@@ -81,7 +81,7 @@ print(C['name'])
 
 #
 
-###**5. 반복문**
+### **5. 반복문**
 
 - **for**:
   Tuple, Lust, Dictionary 등을 순서에따라 반복
@@ -146,7 +146,7 @@ print(C['name'])
 
 #
 
-###**6. Function 함수**
+### **6. Function 함수**
 
 - 호출 할 때만 실행되는 코드블록
 - 함수 코드에 따라서 데이터 반환
@@ -163,7 +163,7 @@ print(output)
 >>>('Likelion_vn', 'Hello World')
 ```
 
-###**7. Class 객체**
+### **7. Class 객체**
 
 - 내부에 변수와 함수 포함
 - 코드를 더 유기적으로 활용 가능, 재사용성 높음
